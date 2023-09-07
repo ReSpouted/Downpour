@@ -3,4 +3,4 @@ plugins {
 }
 
 rootProject.name = 'downpour'
-include('src')
+include('downpour')
